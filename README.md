@@ -5,13 +5,17 @@ SEIR models the flows of people between four states: susceptible (S), exposed (E
 ## States and parameters
 
 SEIR has 7 states:
-1) Suceptible <img src="https://render.githubusercontent.com/render/math?math=(S_t)">
-2) Insusceptibles <img src="https://render.githubusercontent.com/render/math?math=(P_t)">
-3) Exposed <img src="https://render.githubusercontent.com/render/math?math=(E_t)">
-4) Infectious <img src="https://render.githubusercontent.com/render/math?math=(I_t)">
-5) Quarantined <img src="https://render.githubusercontent.com/render/math?math=(Q_t)">
-6) Recovered <img src="https://render.githubusercontent.com/render/math?math=(R_t)">
-7) Dead <img src="https://render.githubusercontent.com/render/math?math=(D_t)">
+* Suceptible <img src="https://render.githubusercontent.com/render/math?math=(S_t)">
+* Insusceptibles <img src="https://render.githubusercontent.com/render/math?math=(P_t)">
+* Exposed <img src="https://render.githubusercontent.com/render/math?math=(E_t)">
+* Infectious <img src="https://render.githubusercontent.com/render/math?math=(I_t)">
+* Quarantined <img src="https://render.githubusercontent.com/render/math?math=(Q_t)">
+* Recovered <img src="https://render.githubusercontent.com/render/math?math=(R_t)">
+* Dead <img src="https://render.githubusercontent.com/render/math?math=(D_t)">
 
-SEIR has 6 parameters:
-1) alpha: 
+SEIR has 8 parameters:
+* <img src="https://render.githubusercontent.com/render/math?math=\alpha">: protection rate
+* <img src="https://render.githubusercontent.com/render/math?math=\beta">: infection rate
+* <img src="https://render.githubusercontent.com/render/math?math=\gamma">: inverse of the average latent time
+* <img src="https://render.githubusercontent.com/render/math?math=(\lambda_0,\lambda_1)">: coefficients used in the time-dependant cure rate
+* <img src="https://render.githubusercontent.com/render/math?math=(\kappa_0,\kappa_1)">: coefficient used in the time-dependant mortality rate
