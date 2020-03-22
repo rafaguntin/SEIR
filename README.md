@@ -26,7 +26,7 @@ Each state evolves over time as follows:
 
 ![Image description](https://github.com/rafaguntin/SEIR/blob/master/model_diagram.png)
 
-wit equations
+with equations
 
 * <img src="https://render.githubusercontent.com/render/math?math=\frac{S_t}{\text{d}t} = -\alpha S_t - \beta \frac{S_t I_t}{N}">
 * <img src="https://render.githubusercontent.com/render/math?math=\frac{P_t}{\text{d}t} = \alpha S_t">
