@@ -1,4 +1,4 @@
-**Goal** just learn how these models work. Not a credible quantiative exercise.
+**Goal**: learn how these models work. Not a credible quantiative exercise.
 
 # SEIR model for Uruguay
 
