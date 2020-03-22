@@ -1,6 +1,6 @@
 # SEIR model
 
-SEIR models the flows of people between four states: susceptible (S), exposed (E), infected (I), and resistant (R). Metodological notes are based on [Etienne Cheynet code](https://github.com/ECheynet/SEIR) and [wikipedia](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology).
+SEIR models the flows of people between four states: susceptible (S), exposed (E), infected (I), and resistant (R). Metodological notes are based on [E. Cheynet's code](https://github.com/ECheynet/SEIR) and [wikipedia](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology).
 
 ## States and parameters
 
