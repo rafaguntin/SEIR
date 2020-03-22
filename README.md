@@ -4,7 +4,7 @@ SEIR models the flows of people between four states: susceptible (S), exposed (E
 
 ## States and parameters
 
-SEIR has 7 states:
+7 states:
 * Suceptible <img src="https://render.githubusercontent.com/render/math?math=(S_t)">
 * Insusceptibles <img src="https://render.githubusercontent.com/render/math?math=(P_t)">
 * Exposed <img src="https://render.githubusercontent.com/render/math?math=(E_t)">
@@ -12,6 +12,8 @@ SEIR has 7 states:
 * Quarantined <img src="https://render.githubusercontent.com/render/math?math=(Q_t)">
 * Recovered <img src="https://render.githubusercontent.com/render/math?math=(R_t)">
 * Dead <img src="https://render.githubusercontent.com/render/math?math=(D_t)">
+
+Population <img src="https://render.githubusercontent.com/render/math?math=(N)"> assumed to be constant and <img src="https://render.githubusercontent.com/render/math?math= N = S_t + P_t + E_t + I_t + Q_t + R_t + D_t">
 
 SEIR has 8 parameters:
 * <img src="https://render.githubusercontent.com/render/math?math=\alpha">: protection rate
