@@ -47,7 +47,9 @@ We assume the following values:
 ## Simulation for Uruguay
 
 Infected people each period
+
 <img src="https://github.com/rafaguntin/SEIR/blob/master/stock_infected_uru.png" width="600" height="400">
 
 Stock of infected people
+
 <img src="https://github.com/rafaguntin/SEIR/blob/master/infected_uru.png" width="600" height="400">
