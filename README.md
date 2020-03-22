@@ -20,7 +20,7 @@ Population <img src="https://render.githubusercontent.com/render/math?math=(N)">
 * <img src="https://render.githubusercontent.com/render/math?math=(\lambda_0,\lambda_1)">: coefficients used in the time-dependant cure rate
 * <img src="https://render.githubusercontent.com/render/math?math=(\kappa_0,\kappa_1)">: coefficient used in the time-dependant mortality rate
 
-## ODE
+## ODE and solution
 
 Each state evolves over time as follows:
 
@@ -31,4 +31,4 @@ Each state evolves over time as follows:
 * <img src="https://render.githubusercontent.com/render/math?math=\frac{Q_t}{\text{d}t} = \delta I_t - \lambda_t  Q_t - \kappa_t Q_t">
 * <img src="https://render.githubusercontent.com/render/math?math=\frac{R_t}{\text{d}t} = \lambda_t Q_t">
 * <img src="https://render.githubusercontent.com/render/math?math=\frac{D_t}{\text{d}t} = \kappa_t Q_t">
-with <img src="https://render.githubusercontent.com/render/math?math=\kappa_t = \kappa_0 exp(-\kappa_1 t)"> and <img src="https://render.githubusercontent.com/render/math?math=\lambda_t = \lambda_0 [1-exp(-\lambda_1 t)]">
+with <img src="https://render.githubusercontent.com/render/math?math=\kappa_t = \kappa_0 exp(-\kappa_1 t)"> and <img src="https://render.githubusercontent.com/render/math?math=\lambda_t = \lambda_0 [1-exp(-\lambda_1 t)]">. We solve this using this [matlab code](https://www.mathworks.com/matlabcentral/fileexchange/74545-generalized-seir-epidemic-model-fitting-and-computation?s_tid=LandingPageTabfx) which uses the standard 4th order Runge-Kutta method.
