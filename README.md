@@ -48,10 +48,10 @@ We assume the following values:
 
 Simulations [code](https://github.com/rafaguntin/SEIR/blob/master/uru_simul.m).
 
-* Infected people each period
+* Infected people each period (I and Q)
 
 <img src="https://github.com/rafaguntin/SEIR/blob/master/infected_uru.png" width="450" height="320">
 
-* Stock of infected people
+* Stock of infected people (I + Q + R + D)
 
 <img src="https://github.com/rafaguntin/SEIR/blob/master/stock_infected_uru.png" width="450" height="320">
