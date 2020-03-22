@@ -2,7 +2,7 @@
 
 # SEIR model for Uruguay
 
-SEIR models the flows of people between four states: susceptible (S), exposed (E), infected (I), and resistant (R). Metodological notes are based on [code](https://github.com/ECheynet/SEIR), [Wikipedia](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology), [slides](http://indico.ictp.it/event/7960/session/3/contribution/19/material/slides/0.pdf) and [paper](https://www.medrxiv.org/content/10.1101/2020.02.16.20023465v1.full.pdf).
+The SEIR is a family of epidemic models where people flows between four states: susceptible (S), exposed (E), infected (I), and resistant (R). Metodological notes are based on [code](https://github.com/ECheynet/SEIR), [Wikipedia](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology), [slides](http://indico.ictp.it/event/7960/session/3/contribution/19/material/slides/0.pdf) and [paper](https://www.medrxiv.org/content/10.1101/2020.02.16.20023465v1.full.pdf).
 
 ## States and parameters
 
