@@ -49,7 +49,7 @@ Initial conditions based on confirmed cases in Uruguay through [03/22/2020](http
 
 Parameters based on the ones for [China](https://www.medrxiv.org/content/10.1101/2020.02.16.20023465v1.full.pdf).
   * <img src="https://render.githubusercontent.com/render/math?math=\alpha = 0.15,\beta =0.96,\gamma=1/2,\delta=1/7"> 
-  * <img src="https://render.githubusercontent.com/render/math?math= \kappa_0 = \lambda_0 = 0.03,\kappa_1 = \lambda_1 = 0.01">
+  * <img src="https://render.githubusercontent.com/render/math?math=\kappa_0 = \lambda_0 = 0.03,\kappa_1 = \lambda_1 = 0.01">
 
 ## Simulation for Uruguay 
 
