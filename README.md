@@ -48,7 +48,7 @@ We assume the following values:
 
 Simulations [code](https://github.com/rafaguntin/SEIR/blob/master/uru_simul.m).
 
-* Infected people each period (I and Q)
+* Infected people each period (Q and I + Q)
 
 <img src="https://github.com/rafaguntin/SEIR/blob/master/infected_uru.png" width="450" height="320">
 
