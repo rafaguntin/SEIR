@@ -22,6 +22,12 @@ Population <img src="https://render.githubusercontent.com/render/math?math=(N)">
 
 ## ODE
 
-Each state evolves as follows:
+Each state evolves over time as follows:
 
 * <img src="https://render.githubusercontent.com/render/math?math=\frac{S_t}{\text{d}t} = -\alpha S_t - \beta \frac{S_t I_t}{N}">
+* <img src="https://render.githubusercontent.com/render/math?math=\frac{P_t}{\text{d}t} = \alpha S_t">
+* <img src="https://render.githubusercontent.com/render/math?math=\frac{E_t}{\text{d}t} = -\gamma E_t + \beta \frac{S_t I_t}{N}">
+* <img src="https://render.githubusercontent.com/render/math?math=\frac{I_t}{\text{d}t} = \gamma E_t - \delta I_t">
+* <img src="https://render.githubusercontent.com/render/math?math=\frac{Q_t}{\text{d}t} = \delta I_t - (\lambda_t + \kappa_t) Q_t">
+* <img src="https://render.githubusercontent.com/render/math?math=\frac{R_t}{\text{d}t} = \lambda_t Q_t">
+* <img src="https://render.githubusercontent.com/render/math?math=\frac{D_t}{\text{d}t} = \kappa_t Q_t">
