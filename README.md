@@ -48,8 +48,8 @@ Initial conditions based on confirmed cases in Uruguay through [03/22/2020](http
   * <img src="https://render.githubusercontent.com/render/math?math=\E_0 = 280,\I_0 = \Q_0 = 140"> 
 
 Parameters based on the ones for [China](https://www.medrxiv.org/content/10.1101/2020.02.16.20023465v1.full.pdf).
-  * <img src="https://render.githubusercontent.com/render/math?math=\alpha = 0.15,\beta =0.96,\gamma=1/2,\delta=1/7> 
-  * <img src="https://render.githubusercontent.com/render/math?math=\alpha = \kappa_0 = \lambda_0 = 0.03,\kappa_0 = \lambda_0 = 0.01>
+  * <img src="https://render.githubusercontent.com/render/math?math=\alpha = 0.15,\beta =0.96,\gamma=1/2,\delta=1/7"> 
+  * <img src="https://render.githubusercontent.com/render/math?math=\alpha = \kappa_0 = \lambda_0 = 0.03,\kappa_0 = \lambda_0 = 0.01">
 
 ## Simulation for Uruguay 
 
