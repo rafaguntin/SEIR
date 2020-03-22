@@ -1,3 +1,3 @@
-SEIR model
+## SEIR model
 
-$\beta$
+
