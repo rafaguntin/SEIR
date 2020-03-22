@@ -28,6 +28,7 @@ Each state evolves over time as follows:
 * <img src="https://render.githubusercontent.com/render/math?math=\frac{P_t}{\text{d}t} = \alpha S_t">
 * <img src="https://render.githubusercontent.com/render/math?math=\frac{E_t}{\text{d}t} = -\gamma E_t + \beta \frac{S_t I_t}{N}">
 * <img src="https://render.githubusercontent.com/render/math?math=\frac{I_t}{\text{d}t} = \gamma E_t - \delta I_t">
-* <img src="https://render.githubusercontent.com/render/math?math=\frac{Q_t}{\text{d}t} = \delta I_t - (\lambda_t + \kappa_t) Q_t">
+* <img src="https://render.githubusercontent.com/render/math?math=\frac{Q_t}{\text{d}t} = \delta I_t - \lambda_t  Q_t - \kappa_t Q_t">
 * <img src="https://render.githubusercontent.com/render/math?math=\frac{R_t}{\text{d}t} = \lambda_t Q_t">
 * <img src="https://render.githubusercontent.com/render/math?math=\frac{D_t}{\text{d}t} = \kappa_t Q_t">
+with <img src="https://render.githubusercontent.com/render/math?math=\kappa_t = \kappa_0 exp(-\kappa_1 t)"> and <img src="https://render.githubusercontent.com/render/math?math=\lambda_t = \lambda_0 [1-exp(-\lambda_1 t)]">
