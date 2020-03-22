@@ -24,4 +24,4 @@ Population <img src="https://render.githubusercontent.com/render/math?math=(N)">
 
 Each state evolves as follows:
 
-* <img src="https://render.githubusercontent.com/render/math?math=S_t = A_t">
+* <img src="https://render.githubusercontent.com/render/math?math=\frac{S_t}{\text{d}t} = -\alpha S_t - \beta \frac{S_t I_t}{N}">
