@@ -1,3 +1,3 @@
-Model description
+SEIR model
 
-A
+$\beta$
