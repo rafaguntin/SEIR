@@ -24,7 +24,7 @@ Population <img src="https://render.githubusercontent.com/render/math?math=(N)">
 
 Each state evolves over time as follows:
 
-![Image description](link-to-image)
+![Image description](https://github.com/rafaguntin/SEIR/blob/master/model_diagram.png)
 
 wit equations
 
