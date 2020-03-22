@@ -44,4 +44,4 @@ We assume the following values:
 * <img src="https://render.githubusercontent.com/render/math?math=\E_0 = 280,\I_0 = \Q_0 = 140,\alpha = 0.15,\beta =0.96,\gamma=1/2,\delta=1/7,\kappa_0 = \lambda_0 = 0.03,\kappa_0 = \lambda_0 = 0.01"> 
 * Based on confirmed cases in Uruguay through [03/22/2020](https://www.elobservador.com.uy/nota/gobierno-anuncio-que-hay-135-casos-de-coronavirus-2020321205120) and parameters for [China](https://www.medrxiv.org/content/10.1101/2020.02.16.20023465v1.full.pdf).
 
-![Image description](https://github.com/rafaguntin/SEIR/blob/master/stock_infected_uru.pdf)
+![Image description](https://github.com/rafaguntin/SEIR/blob/master/stock_infected_uru.png)
