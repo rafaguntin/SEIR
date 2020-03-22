@@ -17,6 +17,7 @@ Population <img src="https://render.githubusercontent.com/render/math?math=(N)">
 * <img src="https://render.githubusercontent.com/render/math?math=\alpha">: protection rate
 * <img src="https://render.githubusercontent.com/render/math?math=\beta">: infection rate
 * <img src="https://render.githubusercontent.com/render/math?math=\gamma">: inverse of the average latent time
+* <img src="https://render.githubusercontent.com/render/math?math=\delta">: inverse of the average quarantine time
 * <img src="https://render.githubusercontent.com/render/math?math=(\lambda_0,\lambda_1)">: coefficients used in the time-dependant cure rate
 * <img src="https://render.githubusercontent.com/render/math?math=(\kappa_0,\kappa_1)">: coefficient used in the time-dependant mortality rate
 
