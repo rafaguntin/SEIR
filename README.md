@@ -2,6 +2,8 @@
 
 Epdidemic SEIR models the flows of people between four states: susceptible (S), exposed (E), infected (I), and resistant (R).
 
+# States
+
 SEIR has 7 states
 1) Suceptible
 2) Insusceptibles
