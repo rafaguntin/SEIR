@@ -24,6 +24,10 @@ Population <img src="https://render.githubusercontent.com/render/math?math=(N)">
 
 Each state evolves over time as follows:
 
+![Image description](link-to-image)
+
+wit equations
+
 * <img src="https://render.githubusercontent.com/render/math?math=\frac{S_t}{\text{d}t} = -\alpha S_t - \beta \frac{S_t I_t}{N}">
 * <img src="https://render.githubusercontent.com/render/math?math=\frac{P_t}{\text{d}t} = \alpha S_t">
 * <img src="https://render.githubusercontent.com/render/math?math=\frac{E_t}{\text{d}t} = -\gamma E_t %2B \beta \frac{S_t I_t}{N}">
