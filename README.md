@@ -13,7 +13,7 @@ SEIR models the flows of people between four states: susceptible (S), exposed (E
 * Recovered <img src="https://render.githubusercontent.com/render/math?math=(R_t)">
 * Dead <img src="https://render.githubusercontent.com/render/math?math=(D_t)">
 
-Population <img src="https://render.githubusercontent.com/render/math?math=(N)"> assumed to be constant and <img src="https://render.githubusercontent.com/render/math?math= N = S_t + P_t + E_t + I_t + Q_t + R_t + D_t">
+Population <img src="https://render.githubusercontent.com/render/math?math=(N)"> assumed to be constant
 
 SEIR has 8 parameters:
 * <img src="https://render.githubusercontent.com/render/math?math=\alpha">: protection rate
