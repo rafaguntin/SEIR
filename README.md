@@ -53,3 +53,5 @@ Infected people each period
 Stock of infected people
 
 <img src="https://github.com/rafaguntin/SEIR/blob/master/stock_infected_uru.png" width="550" height="400">
+
+[code](https://github.com/rafaguntin/SEIR/blob/master/uru_simul.m)
