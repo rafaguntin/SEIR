@@ -57,8 +57,8 @@ Simulations [code](https://github.com/rafaguntin/SEIR/blob/master/uru_simul.m).
 
 * Infected people each period (Q and I + Q)
 
-<img src="https://github.com/rafaguntin/SEIR/blob/master/infected_uru.png">
+<img src="https://github.com/rafaguntin/SEIR/blob/master/infected_uru_beta.png">
 
 * Stock of infected people (I + Q + R + D)
 
-<img src="https://github.com/rafaguntin/SEIR/blob/master/stock_infected_uru.png">
+<img src="https://github.com/rafaguntin/SEIR/blob/master/stock_infected_uru_beta.png">
