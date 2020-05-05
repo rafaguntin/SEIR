@@ -66,3 +66,7 @@ Simulations [code](https://github.com/rafaguntin/SEIR/blob/master/uru_simul.m).
 ## Sensitivity Parameter Susceptible-to-Insusceptible
 
 Now I simluate for various values of <img src="https://render.githubusercontent.com/render/math?math=\alpha">.
+
+<img src="https://github.com/rafaguntin/SEIR/blob/master/alpha_simul_1.png">
+
+<img src="https://github.com/rafaguntin/SEIR/blob/master/alpha_simul_2.png">
