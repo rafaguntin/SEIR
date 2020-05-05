@@ -50,7 +50,9 @@ We assume the following values:
 2) Parameters based on [China](https://www.medrxiv.org/content/10.1101/2020.02.16.20023465v1.full.pdf).
   * <img src="https://render.githubusercontent.com/render/math?math=\alpha = 0.15,\beta =0.96,\gamma=1/2,\delta=1/7"> 
   * <img src="https://render.githubusercontent.com/render/math?math=\kappa_0 = \lambda_0 = 0.03,\kappa_1 = \lambda_1 = 0.01">
-
+  
+Observed data: May 4th 2020. Projections: March 22nd 2020.
+    
 ## Simulation for Uruguay 
 
 Simulations [code](https://github.com/rafaguntin/SEIR/blob/master/uru_simul.m).
@@ -59,7 +61,7 @@ Simulations [code](https://github.com/rafaguntin/SEIR/blob/master/uru_simul.m).
 
 <img src="https://github.com/rafaguntin/SEIR/blob/master/infected_uru_beta.png">
 
-* Stock of infected people (I + Q + R + D). Observed data: May 4th 2020. Projections: March 22nd 2020.
+* Stock of infected people (I + Q + R + D)
 
 <img src="https://github.com/rafaguntin/SEIR/blob/master/stock_infected_uru_beta.png">
 
