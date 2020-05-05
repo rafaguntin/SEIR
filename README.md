@@ -59,6 +59,10 @@ Simulations [code](https://github.com/rafaguntin/SEIR/blob/master/uru_simul.m).
 
 <img src="https://github.com/rafaguntin/SEIR/blob/master/infected_uru_beta.png">
 
-* Stock of infected people (I + Q + R + D). Observed data: May 4th 2020. Projections: March 22nd 2020
+* Stock of infected people (I + Q + R + D). Observed data: May 4th 2020. Projections: March 22nd 2020.
 
 <img src="https://github.com/rafaguntin/SEIR/blob/master/stock_infected_uru_beta.png">
+
+## Sensitivity Parameter Susceptible-to-Insusceptible
+
+Now I simluate for various values of <img src="https://render.githubusercontent.com/render/math?math=\alpha">.
